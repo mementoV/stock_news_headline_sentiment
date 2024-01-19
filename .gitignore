@@ -1,0 +1,5 @@
+*.json
+*.pub
+*.toml
+
+/home/memcho/Desktop/projects/LLM new stocks/

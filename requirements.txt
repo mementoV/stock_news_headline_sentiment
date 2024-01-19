@@ -1,0 +1,15 @@
+beautifulsoup4
+pandas
+numpy
+yfinance
+newspaper3k
+st-gsheets-connection
+streamlit
+plotly
+transformers
+requests
+DateTime
+torch
+torchvision
+matplotlib
+finnhub-python
